@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is development Version of package.json",
   "main": "index.js",
   "scripts": {
     "start": "nodemon app.js",
